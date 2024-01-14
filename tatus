@@ -1,0 +1,286 @@
+[33mcommit 6cb0b4f43db615e150f74913497fdfc6f5b7556a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Borja Villena Pardo <bvillenap@uoc.edu>
+Date:   Sun Jan 14 20:39:45 2024 +0100
+
+    BVP primer commit de estudiante
+
+[33mcommit a430f1cb230ce8cf71c83c21d88b9b4815f117d3[m[33m ([m[1;33mtag: 20222[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jan Maynou <jan@Aire.local>
+Date:   Wed May 17 09:02:14 2023 +0200
+
+    Update PAC
+
+[33mcommit 1a49d13994d9cc43abfa5c60304dd701b6c32d70[m
+Author: Jan Maynou <jan@Aire.local>
+Date:   Wed May 10 17:57:56 2023 +0200
+
+    Typo
+
+[33mcommit 03396849372c1126002741ae2cb91019930d145a[m
+Author: Jan Maynou <jan@Aire.local>
+Date:   Wed May 10 17:36:58 2023 +0200
+
+    Typos
+
+[33mcommit a4d37d43f1834ff60b5a791add85657a36fbede0[m
+Author: nllabresb <nllabresb@uoc.edu>
+Date:   Sun May 7 21:05:53 2023 +0200
+
+    New PAC6 version
+
+[33mcommit 1e83cd4beaae94c7a0725e37ab955c8da4fe1a1f[m[33m ([m[1;33mtag: 20221[m[33m)[m
+Author: spuigardeu@uoc.edu <spuigardeu@uoc.edu>
+Date:   Sun Dec 11 22:06:53 2022 +0000
+
+    Deleted data/ufo.csv
+
+[33mcommit b4ffced91c56b97c8921dc0177204d1627fd873a[m
+Author: spuigardeu@uoc.edu <spuigardeu@uoc.edu>
+Date:   Sun Dec 11 22:06:03 2022 +0000
+
+    Upload New File
+
+[33mcommit 5e234174c004463ab1bb8fa95e3090b9ad4b5306[m
+Author: spuigardeu@uoc.edu <spuigardeu@uoc.edu>
+Date:   Sun Dec 11 22:05:51 2022 +0000
+
+    Upload New File
+
+[33mcommit 5da40eb5c37736d993e2cb186177afdfc1a0391c[m
+Author: spuigardeu@uoc.edu <spuigardeu@uoc.edu>
+Date:   Sun Dec 11 22:04:39 2022 +0000
+
+    Replace prog_datasci_6_preproc_entrega.pdf
+
+[33mcommit 1a52b3134a343921209beae8a7b7a8d832305dbc[m
+Author: spuigardeu@uoc.edu <spuigardeu@uoc.edu>
+Date:   Sun Dec 11 22:04:20 2022 +0000
+
+    Replace prog_datasci_6_preproc_entrega.ipynb
+
+[33mcommit 9a565bc73b4344db1cadecb9700c3581fbc250be[m
+Author: Jan Maynou <jan@Aire.local>
+Date:   Sat Sep 24 16:00:34 2022 +0200
+
+    TOC jupyter + Colab
+
+[33mcommit f5410006147bf50e87397b2515ab5e104b480c65[m[33m ([m[1;33mtag: colab[m[33m)[m
+Author: Jan Maynou <jan@Aire.local>
+Date:   Sun Sep 11 17:28:22 2022 +0200
+
+    Add Colab
+
+[33mcommit e40429893d70ad6c41448971f6015396908878f4[m[33m ([m[1;33mtag: 20212[m[33m)[m
+Author: Joan Maynou Fernandez <jan@MacBook-Air-de-Joan-2.local>
+Date:   Sat Apr 9 16:05:07 2022 +0200
+
+    Add pdf
+
+[33mcommit 7dee4166dd73f1235556b48852ef7c74d30d0c87[m
+Author: Joan Maynou Fernandez <jan@MacBook-Air-de-Joan-2.local>
+Date:   Sat Apr 9 16:04:01 2022 +0200
+
+    Versión Primavera 2022
+
+[33mcommit a0fb64b6a2bc05c43076125b67d5559a8015be8a[m
+Author: Joan Maynou Fernandez <jan@MacBook-Air-de-Joan.local>
+Date:   Sun Dec 5 10:08:41 2021 +0100
+
+    Add dataset
+
+[33mcommit cb6377c587978f29b20a1128514fda570d621b95[m[33m ([m[1;33mtag: 20211[m[33m)[m
+Author: brubiob <brubiob@uoc.edu>
+Date:   Mon Oct 18 15:02:07 2021 +0000
+
+    Delete weather_dataset_edited.csv
+
+[33mcommit 284bb93f43e8e5bb92040635c81ca49d1120a50a[m
+Author: brubiob <brubiob@uoc.edu>
+Date:   Mon Oct 18 15:02:01 2021 +0000
+
+    Delete bank_edited.csv
+
+[33mcommit 8d8a395a533583d5fc14725f6eaa906f39b13f45[m
+Author: brubiob <brubiob@uoc.edu>
+Date:   Mon Oct 18 15:01:53 2021 +0000
+
+    Delete DS_HR.csv
+
+[33mcommit 988b050670dd5f406c4ce31fad78bf78700e1f66[m
+Author: brubiob <brubiob@uoc.edu>
+Date:   Mon Oct 18 15:01:44 2021 +0000
+
+    Upload New File
+
+[33mcommit e674df0f2aa6043e467b3a37fa8dbb33afae775a[m
+Author: brubiob <brubiob@uoc.edu>
+Date:   Mon Oct 18 14:58:34 2021 +0000
+
+    Upload New File
+
+[33mcommit a04bf6d84ae308eb8f5d7490e7d1af23e03f6711[m
+Author: brubiob <brubiob@uoc.edu>
+Date:   Mon Oct 18 14:58:19 2021 +0000
+
+    Delete prog_datasci_6_preproc_entrega.pdf
+
+[33mcommit 0939f7e6c7e7f37a18c3e3eb9fe3076c5d33b1d2[m
+Author: brubiob <brubiob@uoc.edu>
+Date:   Mon Oct 18 14:58:07 2021 +0000
+
+    Upload New File
+
+[33mcommit b9376822a5ce357fcf8d8aa08a18692b811ca6ca[m
+Author: brubiob <brubiob@uoc.edu>
+Date:   Mon Oct 18 14:57:51 2021 +0000
+
+    Delete prog_datasci_6_preproc_entrega.ipynb
+
+[33mcommit 6563118a21cecad1f9e439348d29b034bc68d07b[m[33m ([m[1;33mtag: 20201[m[33m)[m
+Author: Aabos <aabos@uoc.edu>
+Date:   Tue May 4 19:04:56 2021 +0000
+
+    Replace prog_datasci_6_preproc_entrega.pdf
+
+[33mcommit 7f001d8c2a6bbcfbf47a70051474621848ad750e[m
+Author: Aabos <aabos@uoc.edu>
+Date:   Tue May 4 19:04:29 2021 +0000
+
+    Upload New File
+
+[33mcommit 29fe61930efaa446c45f2e1ffe8cf1b8bdddb0a9[m
+Author: Aabos <aabos@uoc.edu>
+Date:   Tue May 4 19:04:17 2021 +0000
+
+    Delete drinks.csv
+
+[33mcommit 6598c4350140da8929af139f65a9de97cc13740e[m
+Author: Aabos <aabos@uoc.edu>
+Date:   Tue May 4 19:02:26 2021 +0000
+
+    Replace prog_datasci_6_preproc_entrega.ipynb
+
+[33mcommit 6c8df3331105243e3d76d4dd22ce9129789d022d[m[33m ([m[1;33mtag: 20202[m[33m)[m
+Author: Joan Maynou Fernandez <jan@MacBook-Air-de-Joan.local>
+Date:   Mon Oct 19 16:01:14 2020 +0200
+
+    Versión Otoño 2020
+
+[33mcommit cabe7984b91a133cbf41e63aa2e0201d73f27f1e[m
+Author: Cristina Perez Sola <cperezsola@uoc.edu>
+Date:   Wed Sep 23 12:04:38 2020 +0200
+
+    Index + headers + no xwiki
+
+[33mcommit de7ea07f6333575fb4e326fbfe11375c484131cb[m
+Author: Jan Maynou <jan@Aire.local>
+Date:   Thu May 7 15:18:04 2020 +0200
+
+    dataset weather
+
+[33mcommit 40f9afa56920fc09cd91710adea805f4c359911c[m
+Author: Jan Maynou <jan@Aire.local>
+Date:   Wed May 6 17:22:02 2020 +0200
+
+    Versión Primavera 2020
+
+[33mcommit ea513705c5d0049bb4f2fa6b55a2bb423451a782[m
+Merge: 3387c2a 9578e8e
+Author: Cristian <ctanas@uoc.edu>
+Date:   Fri Dec 6 22:03:57 2019 +0100
+
+    Merge branch 'rev/20191' into 'master'
+    
+    Versió primer semestre curs 2019-20.
+    
+    See merge request prog_datasci/prog_datasci_6!1
+
+[33mcommit 9578e8e0b9541912062d14b9909c52977a5dcff7[m
+Author: Cristian <ctanas@uoc.edu>
+Date:   Fri Dec 6 22:03:57 2019 +0100
+
+    Versió primer semestre curs 2019-20.
+
+[33mcommit 3387c2a0d9bd21974d0628d01ff95a5f0cbff0b1[m
+Author: datasci <cperezsola@uoc.edu>
+Date:   Wed Aug 7 10:12:26 2019 +0200
+
+    latex pdf
+
+[33mcommit 80955f1d9af2ef59a78d13b6c5e3c80dc0142185[m
+Author: datasci <cperezsola@uoc.edu>
+Date:   Mon Aug 5 11:17:35 2019 +0200
+
+    Upgrade to Python 3
+
+[33mcommit 32ea417b16bd0639adca968fef3eb981fc763d5a[m
+Author: datasci <cperezsola@uoc.edu>
+Date:   Mon May 13 13:39:38 2019 +0200
+
+    Notebook version updated
+
+[33mcommit 7b9723f51d3371fdbddea36c11ef0f168f89a639[m
+Author: cpsola <cperez@deic.uab.cat>
+Date:   Mon May 13 09:43:42 2019 +0200
+
+    Weather dataset added
+
+[33mcommit 6eb8643de497e2472dd71d937f8a89588dbffd12[m
+Author: Jan Maynou <jan@Aire.local>
+Date:   Thu May 9 18:46:06 2019 +0200
+
+    Versió primavera 2018-2019
+
+[33mcommit db4fce10c3bb0fbe388d8af965af7ca7b00356af[m
+Author: Jan Maynou <jan@Aire.local>
+Date:   Thu May 9 18:44:14 2019 +0200
+
+    Versió primavera 2018-2019
+
+[33mcommit 97c64f1a9d31f01404ad46504ca465fb0f8e2704[m
+Author: Cristina Perez Sola <cperezsola@uoc.edu>
+Date:   Fri Dec 7 17:51:44 2018 +0100
+
+    pdf updated
+
+[33mcommit aec7cc82d89e0a21138a98ac60a854af1a1709b5[m
+Author: datasci <cperezsola@uoc.edu>
+Date:   Fri Dec 7 17:33:39 2018 +0100
+
+    Versió tardor 2018
+
+[33mcommit 15340ef586337ce389bd047e1b05bd4c8a9fa306[m
+Author: Cristina Perez Sola <cperezsola@uoc.edu>
+Date:   Thu May 10 09:51:57 2018 +0200
+
+    Version 2017/2018 Sem 2 (Primavera)
+
+[33mcommit baee9b13495ec046681db182613d485ee4fa7849[m
+Author: Cristina Perez Sola <cperezsola@uoc.edu>
+Date:   Tue Dec 12 09:04:39 2017 +0100
+
+    Include points for each exercise/question
+
+[33mcommit e238a0a4e5db878ec29115f46301025ffc287f8e[m
+Author: Cristina Perez Sola <cperezsola@uoc.edu>
+Date:   Mon Oct 16 18:42:37 2017 +0200
+
+    2a galerada
+
+[33mcommit e6b2b1bf4aed2de2c2dfc66705a0cfa6f8a2a1b6[m
+Author: Cristina Perez Sola <cperezsola@uoc.edu>
+Date:   Mon Sep 18 14:29:29 2017 +0200
+
+    1a galerada
+
+[33mcommit b1724dcda17aef150b2a0d2d92350b4a495a23cd[m
+Author: Cristina Perez Sola <cperezsola@uoc.edu>
+Date:   Thu Aug 3 22:13:12 2017 +0200
+
+    Pdf version added
+
+[33mcommit f7c949425093e13ad9827ac28a9f43babc6c5d39[m
+Author: Cristina Perez Sola <cperezsola@uoc.edu>
+Date:   Wed Jul 5 10:48:28 2017 +0200
+
+    Initial commit
